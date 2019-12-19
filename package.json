@@ -5,7 +5,9 @@
   "license": "MIT",
   "author": "yamaimo <yarnaimo@gmail.com>",
   "main": "src/index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "echo"
+  },
   "dependencies": {
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.7.4",
     "@babel/plugin-proposal-optional-chaining": "^7.7.5",
